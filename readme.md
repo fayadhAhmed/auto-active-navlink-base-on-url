@@ -152,7 +152,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@fayadhahmed_](https://twitter.com/fayadhahmed_) - fayadh.dev@gamil.com
+Your Name - [@fayadhkhalid](https://twitter.com/fayadhahmed_) - fayadhkhalid0@gamil.com
 
 Project Link: [https://github.com/fayadhAhmed/live-prereview](https://github.com/fayadhAhmed/live-prereview)
 
